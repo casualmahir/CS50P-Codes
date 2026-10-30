@@ -1,6 +1,6 @@
 # Personal Expense Tracker
 
-#### Video URL: <https://youtube.com/shorts/3dl-pVNvixl>
+#### Video URL: <https://youtube.com/shorts/3dI-pVNvixI>
 
 #### Description:
 Personal Expense Tracker is a simple yet powerful Command Line Interface (CLI) application written in Python. It helps users manage their daily financial expenditures by allowing them to log expenses, categorize them, store data persistently in a CSV file, and view a formatted summary table along with total expenditure calculations.
